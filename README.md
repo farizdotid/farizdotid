@@ -10,4 +10,5 @@ Build an Android Application for helping people. ❤️
 <br/>
 <a href="https://www.buymeacoffee.com/farizdotid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-black.png" alt="Buy Me A Coffee" style="height: 10px !important;width: 10px !important;" ></a>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farizdotid)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farizdotid)](https://github.com/farizdotid/github-readme-stats)
