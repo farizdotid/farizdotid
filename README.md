@@ -7,4 +7,10 @@ Build an Android Application for helping people. ❤️
 - Personal site: https://farizdotid.com/blog/
 - Facebook : https://web.facebook.com/farizdotid
 
-![Fariz's github stats](https://github-readme-stats.vercel.app/api?username=farizdotid&show_icons=true&count_private=true&bg_color=00000000&text_color=777)
+## My Stats
+<p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farizdotid&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farizdotid&theme=radical&layout=compact" />
+</a>
+</p>
