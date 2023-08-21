@@ -7,6 +7,4 @@ Build an Android Application for helping people. ❤️
 - Personal site: https://farizdotid.com/blog/
 - Facebook : https://web.facebook.com/farizdotid
 
-<br/>
-<a href="https://www.buymeacoffee.com/farizdotid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-black.png" alt="Buy Me A Coffee" style="height: 10px !important;width: 10px !important;" ></a>
-<br/>
+![Fariz's github stats](https://github-readme-stats.vercel.app/api?username=farizdotid&show_icons=true&count_private=true&bg_color=00000000&text_color=777)
