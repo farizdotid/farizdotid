@@ -9,5 +9,3 @@ And then, I discovered Ruby on Rails. Something about its simplicity, elegance, 
 Now, I see myself as more than just an Android Developer. I’m someone who enjoys crafting solutions, whether it's in mobile, backend, or fullstack development. I love the process of building things that work—from user-friendly mobile apps to powerful, scalable backends.
 
 And honestly? The journey never stops. There’s always something new to learn, a new challenge to tackle, and a new way to grow. ❤️
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farizdotid&layout=compact)
