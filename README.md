@@ -1,11 +1,23 @@
 ### Hi there 👋 I am Fariz
 
-I started my journey as an Android Developer more than nine years ago—back when Java was the king, and Kotlin was just a rumor. I spent years crafting mobile apps, debugging complex issues, and optimizing performance to create smooth, reliable experiences. I love the challenge of turning ideas into fully functional applications that people actually use.
+More than nine years ago, I wrote my first line of Android code. Back then, Java reigned supreme, and Kotlin was just a whisper in the wind. I remember the thrill of seeing my first app come alive on a screen—a tap here, a swipe there—and thinking: “I built this.”
 
-But somewhere along the way, I got curious. I wanted to understand the bigger picture—not just the frontend experience, but what happens behind the scenes. That’s when I started diving into backend development. At first, it was just an experiment, a way to expand my skill set. But soon, I found myself enjoying the logic, the database structures, and the way everything connects.
+Those early days were filled with late nights, messy logs, and tiny victories. I loved it. I thrived on the challenge of crafting seamless mobile experiences—debugging, optimizing, and shipping features that real users relied on. I was proud to call myself an Android Developer.
 
-And then, I discovered Ruby on Rails. Something about its simplicity, elegance, and convention-over-configuration approach just clicked with me. Suddenly, I wasn’t just a mobile developer anymore—I was building fullstack applications, handling both the frontend and backend, and loving every second of it.
+But over time, curiosity crept in.
 
-Now, I see myself as more than just an Android Developer. I’m someone who enjoys crafting solutions, whether it's in mobile, backend, or fullstack development. I love the process of building things that work—from user-friendly mobile apps to powerful, scalable backends.
+I started wondering:
+“What happens after the button is pressed?”
+“Where does the data go?”
+“How does it all really work?”
 
-And honestly? The journey never stops. There’s always something new to learn, a new challenge to tackle, and a new way to grow. ❤️
+So, I peeked behind the curtain—and stepped into the world of backend development. At first, it felt like I was in foreign territory. Servers, APIs, databases—it was overwhelming. But also... exciting. Every layer I uncovered made the whole picture clearer. I wasn’t just coding—I was connecting dots.
+
+As I explored deeper, I began building beyond the screen—designing backend logic, setting up databases, writing APIs. Eventually, I was handling both the frontend and backend, and that's when I realized: I had become a fullstack developer.
+
+I was no longer just focused on what users see. I was thinking about how everything works together. From smooth mobile interfaces to powerful backend systems—I loved every piece of it.
+
+The journey?
+It hasn’t ended. It never does.
+There’s always a new tool, a new language, a new challenge.
+And honestly? That’s what makes it worth it. ❤️
