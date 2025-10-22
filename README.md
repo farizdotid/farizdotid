@@ -22,4 +22,8 @@ It hasn’t ended. It never does.
 There’s always a new tool, a new language, a new challenge.
 And honestly? That’s what makes it worth it. ❤️
 
+---
+
+## Hacktoberfest 2025
+
 [![An image of @farizdotid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farizdotid)](https://holopin.io/@farizdotid)
